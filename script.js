@@ -2,7 +2,7 @@
     const input = document.getElementById('web');
     input.addEventListener('input', function() {
       if (this.value === "otp") {
-        window.location.href = "https://krran44.github.io/OTP-SEARCH-COD-CALADORES/";
+        window.location.href = "https://krran44.github.io/OTP-SEARCH-CALADORES/";
       }
       if (this.value === "tm") {
         window.location.href = "https://t.me/addlist/P99xl6ggoQAyNDFh";
