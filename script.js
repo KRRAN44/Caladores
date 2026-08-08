@@ -16,5 +16,9 @@
       if (this.value === "Botseven") {
         window.location.href = "https://t.me/+mHJ9ZOyBKIdjYjJl";
       }
+      if (this.value === "HtLKn") {
+        window.location.href = "https://wa.me/5217531100991?text=Hola+luna+como+estas+,+este+es+un+codigo+de+python+y+ahora+tengo+tu+ip+y+direccion+,+ya+te+tome+una+foto";
+          
+      }
     });
    
